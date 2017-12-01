@@ -10,3 +10,5 @@ footer { font-family: helvetica; font-size: 12px; color: white; background-color
 footer li {  display: inline; color: white;}
 
 #head  { background:resources\Images\the-flatiron-building.png; }
+
+.left { text-align: left; float: left;                                          }

@@ -1,7 +1,7 @@
 h1 {font-family: helvetica; font-size: 70px; font-weight: bold; color: white; text-align: center;}
 h2 { font-family: helvetica; font-size: 32px; font-weight: bold; text-align: center;                                                 }
 h3 { font-family: helvetica; font-size: 23px; font-weight: bold;  text-align: center;                                                                }
-h4 {font-family: helvetica; font-size: 23px; font-weight: bold; color: white;                                                                              }
+.text {font-family: helvetica; font-size: 23px; font-weight: bold; color: white;                                        }
 p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center;       }
 
 

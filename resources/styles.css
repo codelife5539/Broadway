@@ -9,6 +9,5 @@ url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/
 #identify { text-align: center;                                 }
 #understand { text-align: center;                         }
 #Execute {  text-align: center;                                                  }
-#newyork { background-image:
-url((https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png); }
-#newyork p { font-family: helvetica; font-size: 23px; font-weight: bold; color: white;   }
+#newyork { font-family: helvetica; font-size: 23px; font-weight: bold; color: white; background-image:
+url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);  }

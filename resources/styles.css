@@ -3,6 +3,9 @@ h2 { font-family: helvetica; font-size: 32px; font-weight: bold; text-align: cen
 h3 { font-family: helvetica; font-size: 23px; font-weight: bold;  text-align: center;                                                                }
 .text {font-family: helvetica; font-size: 23px; font-weight: bold; color: white;                                        }
 p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center;       }
+footer{ background-color: dimgrey;                                                          }
+
+
 
 
 #content { text-align: center; background-image:

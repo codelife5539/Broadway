@@ -4,8 +4,9 @@ h3 { font-family: helvetica; font-size: 23px; font-weight: bold;  text-align: ce
 .text {font-family: helvetica; font-size: 23px; font-weight: bold; color: white;                                        }
 p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center;       }
 
-footer { font-family: helvetica; font-size: 11px; color: white; background-color: dimgray; display: inline;                                     }
-
+footer { font-family: helvetica; font-size: 11px; color: white;                                    }
+footer nav li { display: inline;                                            }
+footer nav li a {color: white;                                              }
 
 #content { text-align: center; background-image:
 url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png); }
@@ -18,5 +19,4 @@ url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/
 #port { text-align: center;                   }
 #team { text-align: center;            }
 #contact {  text-align: center;           }
-
-footer nav li a {                                               }
+#foot {  background-color: dimgray;                                                       }

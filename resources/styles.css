@@ -2,7 +2,7 @@ h1 {font-family: helvetica; font-size: 70px; font-weight: bold; color: white; te
 h2 { font-family: helvetica; font-size: 32px; font-weight: bold; text-align: center;                                                 }
 h3 { font-family: helvetica; font-size: 23px; font-weight: bold;  text-align: center;                                                                }
 p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center;       }
-nav {                                                             }
+a { color: white;                                                         }
 
 
 .text {font-family: helvetica; font-size: 23px; font-weight: bold; color: white;                                        }

@@ -4,8 +4,8 @@ h3 { font-family: helvetica; font-size: 23px; font-weight: bold;  text-align: ce
 p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center;       }
 a { color: white;                                                         }
 li { font-family: helvetica; font-size: 18px; color: white; }
-footer { font-family: helvetica; font-size: 18px; color: white;  background-color: dimgrey; display: inline;                              }
-
+footer { font-family: helvetica; font-size: 18px; color: white;  background-color: dimgrey;                             }
+footer li { display: inline;                                      }
 
 
 

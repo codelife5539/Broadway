@@ -5,7 +5,7 @@ p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: cen
 a { color: white;                                                         }
 li { font-family: helvetica; font-size: 18px; color: white; }
 footer { font-family: helvetica; font-size: 18px; color: white;  background-color: dimgrey;                             }
-footer ul li { display: inline;                                      }
+footer nav  ul li { display: inline;                                      }
 
 
 

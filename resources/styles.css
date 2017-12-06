@@ -3,7 +3,7 @@ h2 { font-family: helvetica; font-size: 32px; font-weight: bold; text-align: cen
 h3 { font-family: helvetica; font-size: 23px; font-weight: bold;  text-align: center;                                                                }
 p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center;       }
 a { color: white;                                                         }
-footer li a { display: inline;                                  }
+footer { display: inline;                                  }
 
 .foot { color: white; font-size: 11px; font-family: helvetica;  float: left;              }
 

@@ -1,16 +1,25 @@
 body { font-family: "helvetica" sans-serif;  display: block; margin: 8px;                             }
 
+h1, h2, h3 { font-weight: bold;                      }
 
 
 
-h1 {font-family: helvetica; font-size: 70px; font-weight: bold; color: white; text-align: center;}
+
+
+h1 { display: block;}
+p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center; display: block;     }
+                                                }
+
+
 h2 { font-family: helvetica; font-size: 32px; font-weight: bold; text-align: center;                                                 }
 h3 { font-family: helvetica; font-size: 23px; font-weight: bold;  text-align: center;                                                                }
 p { font-family: helvetica; font-size: 14px; font-weight: bold;  text-align: center; display: block;     }
 a { color: white; text-decoration: underline;                                                       }
 li { font-family: helvetica; font-size: 18px; color: white; }
 footer { font-family: helvetica; font-size: 18px; color: white;                              }
-.footer {  background-color: dimgrey; font-size: 11px; color: white; float: left; }
+
+
+.footer {  background-color: dimgrey; font-size: 11px; color: white; }
 .btn-nav { font-size: 18px; color: white;                                                 }
 
 
@@ -21,8 +30,13 @@ footer { font-family: helvetica; font-size: 18px; color: white;                 
 
 
 
-#content { text-align: center; background-image:
+.content { text-align: center; color: white; background-image:
 url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png); }
+
+.content h1 { font-size: 70px;           }
+
+
+
 #process {  text-align: center;                           }
 #identify { text-align: center;                                 }
 #understand { text-align: center;                         }
